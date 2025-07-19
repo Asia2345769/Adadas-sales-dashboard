@@ -1,2 +1,1 @@
-# Adadas-sales-dashboard
-This is a power BI project with complete dashboard
+This project involved analyzing Adidas store sales data to identify sales trends and performance insights. I used data cleaning, modeling, and visualization techniques to process the data and uncover key patterns. With Power BI dashboards and DAX functions, I presented interactive sales reports, highlighting best-selling products, regional sales performance, and business growth opportunities to support strategic decision-making.
